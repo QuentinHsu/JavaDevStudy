@@ -4,7 +4,7 @@
 
 Record some Java development study content, to learn back-end development.
 
-And I'm also a front-end developer。
+And I'm also a front-end developer.
 
 2020, it's really difficult.
 
