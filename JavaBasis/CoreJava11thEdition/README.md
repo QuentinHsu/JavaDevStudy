@@ -12,16 +12,11 @@ Chinese Name: Java 核心技术
 
 This is original:
 
-<div style="width: 300px">
-    <img src="https://horstmann.com/corejava/cj11v1.jpg" style="margin: 0 auto;width:300px;">
-</div>
-
-
+<img src="https://horstmann.com/corejava/cj11v1.jpg" width="260px">
 
 And，I'm reading this book:
 
-<div style="width: 300px">
-    <img  src="https://img3.doubanio.com/view/subject/l/public/s33556751.jpg" style="margin: 0 auto;">
-</div>
+<img  src="https://img3.doubanio.com/view/subject/l/public/s33556751.jpg" width="260px"">
+                                                                                            
 
 
