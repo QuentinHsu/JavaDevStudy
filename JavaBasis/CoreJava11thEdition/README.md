@@ -17,6 +17,3 @@ This is original:
 And，I'm reading this book:
 
 <img  src="https://img3.doubanio.com/view/subject/l/public/s33556751.jpg" width="260px">
-                                                                                            
-
-
